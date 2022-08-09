@@ -1,0 +1,29 @@
+body{
+    color: white;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.3)), url("background.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    height: 100vh;
+    backdrop-filter: blur(3px);
+  
+    
+
+}
+.centerbox{
+    border: 1px solid white;
+    width: 500px;
+    margin: 10% auto;
+    background-color: rgba(0, 0, 0, 0.284)
+}
+h1, h2, h3, p, a{
+    color: #fdfdfd;
+    text-align: center;
+}
+.social{
+    background-color: gray;
+    margin: 10px;
+}
+img{
+    border-radius: 50%;
+    margin: 10px;
+}
